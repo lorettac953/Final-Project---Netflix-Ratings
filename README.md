@@ -1,5 +1,5 @@
 # Final-Project---Netflix-Ratings
-![netflix-logo-705px.jpg](Images/netflix-logo-705px.jpg)
+![Netflix N.png](Images/Netflix N.png)
 
 Team 6:  Alexander San Filippo, Zach Snyder and Loretta Cortez
 
